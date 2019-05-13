@@ -2,7 +2,7 @@ import requests
 import time
 from datetime import datetime
 
-bc_price_thres = 5259
+bc_price_thres = 5259 #To be updated as per convenience
 bc_api_weblink = 'https://api.coinmarketcap.com/v1/ticker/bitcoin/'
 ifttt_wh_weblink = 'https://maker.ifttt.com/trigger/{}/with/key/dFIvnK9qKedzh56y2opC3E'
 
